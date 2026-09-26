@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0B3D5C"/><stop offset="1" stop-color="#2E8B57"/></linearGradient></defs>
+<rect width="1600" height="900" fill="#eaf4ef"/>
+<rect width="1600" height="900" fill="url(#g)" opacity=".9"/>
+<circle cx="1230" cy="230" r="180" fill="#ffffff" opacity=".14"/>
+<circle cx="1370" cy="570" r="250" fill="#ffffff" opacity=".10"/>
+<text x="110" y="300" font-family="Arial, sans-serif" font-size="78" font-weight="700" fill="#ffffff">Juntos por um</text>
+<text x="110" y="390" font-family="Arial, sans-serif" font-size="92" font-weight="700" fill="#ffffff">amanhã melhor</text>
+<text x="110" y="455" font-family="Arial, sans-serif" font-size="34" fill="#ffffff">Solidariedade que transforma vidas.</text>
+<g transform="translate(920 170)">
+  <circle cx="210" cy="145" r="105" fill="#f4c7a1"/>
+  <path d="M105 370 Q110 230 210 220 Q310 230 315 370 Z" fill="#ffffff"/>
+  <circle cx="490" cy="180" r="82" fill="#8b5a3c"/>
+  <path d="M405 370 Q410 250 490 245 Q570 250 575 370 Z" fill="#ffffff"/>
+  <circle cx="350" cy="475" r="62" fill="#7b4a2d"/>
+  <path d="M290 650 Q295 545 350 540 Q405 545 410 650 Z" fill="#f5d28a"/>
+  <rect x="135" y="335" width="440" height="135" rx="20" fill="#ffffff" opacity=".18"/>
+  <text x="175" y="410" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff">MÃOS UNIDAS</text>
+</g></svg>

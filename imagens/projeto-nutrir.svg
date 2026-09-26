@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#f1f7f3"/>
+<rect x="0" y="0" width="1200" height="150" fill="#0B3D5C"/>
+<text x="70" y="90" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Projeto Nutrir e Acolher</text>
+<rect x="160" y="520" width="900" height="90" rx="25" fill="#d5a56b"/>
+<rect x="240" y="390" width="180" height="120" rx="10" fill="#e6c48e"/>
+<rect x="455" y="360" width="180" height="150" rx="10" fill="#f1d39d"/>
+<rect x="670" y="410" width="180" height="100" rx="10" fill="#d8b47c"/>
+<circle cx="310" cy="285" r="75" fill="#f4c7a1"/>
+<rect x="235" y="350" width="150" height="180" rx="30" fill="#ffffff"/>
+<circle cx="760" cy="280" r="75" fill="#8b5a3c"/>
+<rect x="685" y="350" width="150" height="180" rx="30" fill="#ffffff"/>
+<text x="250" y="700" font-family="Arial, sans-serif" font-size="34" fill="#173042">Voluntários organizando cestas de alimentos</text>
+</svg>
