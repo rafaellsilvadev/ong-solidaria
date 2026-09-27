@@ -33,7 +33,7 @@ nav a:focus-visible, .btn:focus-visible, input:focus-visible, select:focus-visib
 .card-projeto figure, .imagem-destaque { margin: 0 0 1rem; }
 .card-projeto img, .imagem-destaque img { border-radius: 10px; }
 figcaption { font-size: .9rem; color: #4b6270; margin-top: .5rem; }
-.btn { display: inline-block; background: #2E8B57; color: #fff; text-decoration: none; border: 0; border-radius: 8px; padding: .75rem 1.1rem; font-weight: 700; cursor: pointer; }
+.btn { display: inline-block; background: #276E48; color: #fff; text-decoration: none; border: 0; border-radius: 8px; padding: .75rem 1.1rem; font-weight: 700; cursor: pointer; }
 .cta { margin-bottom: 3rem; background: #eaf4ef; border-radius: 12px; }
 address { font-style: normal; background: #fff; padding: 1.5rem; border-radius: 10px; border-left: 5px solid #2E8B57; }
 form { display: grid; gap: 1.5rem; }
