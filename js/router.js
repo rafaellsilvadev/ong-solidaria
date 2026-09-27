@@ -4,10 +4,23 @@ const rotas = {
   "/cadastro": paginaCadastro,
 };
 
+const titulos = {
+  "/": "ONG Mãos Unidas | Início",
+  "/projetos": "ONG Mãos Unidas | Projetos",
+  "/cadastro": "ONG Mãos Unidas | Cadastro",
+};
+
 function navegar() {
   const caminho = location.hash.replace("#", "") || "/";
   const pagina = rotas[caminho] || paginaInicio;
-  document.querySelector("main").innerHTML = pagina();
+  const main = document.querySelector("main");
+
+  main.innerHTML = pagina();
+  document.title = titulos[caminho] || titulos["/"];
+
+  main.setAttribute("tabindex", "-1");
+  main.focus();
+
   document.dispatchEvent(new CustomEvent("conteudoAtualizado", { detail: { rota: caminho } }));
 }
 
