@@ -1,5 +1,7 @@
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
 body { margin: 0; font-family: Arial, sans-serif; line-height: 1.6; color: #173042; background: #f8faf9; }
 img { max-width: 100%; height: auto; display: block; }
 a { color: #0B3D5C; }
